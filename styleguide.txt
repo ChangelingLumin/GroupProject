@@ -1,0 +1,6 @@
+Header= #D37F6D
+footer= #D1C5C2
+sidebarnav= #A63B24
+
+Font= Roboto
+
