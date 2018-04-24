@@ -1,0 +1,123 @@
+*{
+	 margin: 0;
+	 padding: 0;
+}
+body{
+   background-color: violet;
+}
+		.Action{
+			top: 200px;
+			position: absolute;
+			left: 200px;
+			height: 950px;
+			text-align: center;
+			z-index: 1;
+			width: 400px;
+		}
+		.Sports{ 
+		top: 1100px;
+		right: 100px;
+			position: absolute;
+			height: 850px;
+			text-align: right;
+			z-index: 2;
+		}
+		.Strategy{
+			top: 1100px;
+			 position: absolute;
+			   text-align:center;
+               left: 200px;
+               width: 400px;
+               height: 800px;
+               z-index: 1;
+			
+		}
+	div{
+		  width: 100%;
+		  height: 350px;
+	}
+	.topbar {
+	background-color: #D37F6D;
+	height: 100px;
+	font-size: 40px
+}
+.section1 {
+	float: right;
+	margin-left: 140px;
+	margin-right: 210px;
+	text-align: center;
+	overflow: auto;
+	width: 620px;
+}
+.section2 {
+	float: right;
+	overflow: auto;
+	width:620px;
+	text-align: left;
+	margin-left: 50px;
+	margin-right: 350px;
+}
+.sidebar {
+	display: block;
+	background-color: #A63B24;
+	height: 750px;
+	width: 100px;
+	text-align: center;
+}
+.sidebar a {
+	height: 100px;
+	width: 100px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	display: inline-block;
+}
+.button1 {
+	text-decoration: none;
+	background-color: #5CFE7F;
+	color: black;
+	padding: 25px 25px;
+	border-radius: 50%;
+	cursor: not-allowed;
+	font-size: 25px;
+	
+}
+
+.button2 {
+	text-decoration: none;
+	background-color: #A63B24;
+	color: black;
+	padding: 25px 25px;
+	border-radius: 50%;
+	font-size: 25px;
+}
+
+.button3 {
+	text-decoration: none;
+	background-color: #D1C5C2;
+	color: black;
+	padding: 0px 150px;
+	border-radius: 50%;
+	font-size: 20px;
+}
+
+.bottombar { 
+           position: absolute;
+           top: 1800px;
+	       background-color: #D1C5C2;
+	       height: 150px;
+}
+a:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+	  
+	.big-box{
+               position: absolute;
+			   text-align:right;
+               top: 200px;
+               left: 850px;
+               width: 400px;
+               height: 600px;
+               z-index: 1;
+	}	
+ 		   
+				  
